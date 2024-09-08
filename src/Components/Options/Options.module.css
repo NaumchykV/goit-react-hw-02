@@ -1,0 +1,16 @@
+.options {
+    text-align: left;
+}
+.button {
+    border: 1px solid #000;
+    margin-right: 10px;
+}
+.button_reset {
+    border: 1px solid #000;
+    display: none;
+}
+
+.button_visible {
+    border: 1px solid #000;
+    display: inline;
+}
